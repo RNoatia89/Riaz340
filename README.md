@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Riaz340
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ....
+- 👋 Hi, I’m @Riaz340.
+- 👀 I’m interested in DSA.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on Open Source.
 - 📫
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:
