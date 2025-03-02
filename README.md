@@ -21,8 +21,7 @@ I'm Riaz Noatia, a passionate developer from TRIPURA !
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 ## Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RIAZ NOATIA/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+
 
 ## Projects  
 - [Project 1](https://github.com/yourprofile/project1) - Description of Project 1  
