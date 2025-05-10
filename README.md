@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Riaz Noatia, a passionate developer from TRIPURA !
+I'm Riaz Noatia, a passionate developer from INDIA !
 
 - 🔭 I’m currently working on [Project Name]  
 - 🌱 I’m currently learning [Technology]  
